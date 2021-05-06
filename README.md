@@ -80,7 +80,7 @@ Register for Vaccination: [CoWIN](https://www.cowin.gov.in/home)
 
 <div id='testing' />
 
-## COVID Testing Centres
+## COVID Testing Centres (ICMR Official Data)
 
 Institute of Medical Sciences, Banaras Hindu University, Varanasi [0542 236 7568](tel:05422367568)
 
