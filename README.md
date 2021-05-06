@@ -75,4 +75,4 @@
 
 ---
 
-© 2021 Maintainers. Inspired by <https://verifiedcovidleads.com>. This is not an official service. We are not responsible for any wrong information as the information is provided by the community.
+© 2021 Maintainers. Inspired by <https://verifiedcovidleads.com>. This is not an official service. We are not responsible for any wrong information as the information is provided by the community. [GitHub repo.](https://github.com/varanasicovidresources/varanasicovidresources.github.io)
