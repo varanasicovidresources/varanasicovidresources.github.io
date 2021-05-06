@@ -9,7 +9,6 @@
 ## Table of Contents
  - [🛢️ Oxygen Suppliers](#supply)
  - [⛽ Oxygen Refillers](#refill)
- - [❤️ Plasma](#plasma)
  - [⚕️ Doctors](#doctors)
  - [🚑 Ambulance](#ambulance)
  - [💊 Medicines](#medicines)
@@ -27,14 +26,6 @@
 <div id='refill' />
 
 ## Oxygen Refillers
-
-|**Name** |**Contact**  |**Verified time**  |**Verified by**| **Status** |
-|---      |---          |---|---|---|
-|Demo 1   |1234567890   |1 Jan 2000         |Demo           |Available   |
-
-<div id='plasma' />
-
-## Plasma
 
 |**Name** |**Contact**  |**Verified time**  |**Verified by**| **Status** |
 |---      |---          |---|---|---|
