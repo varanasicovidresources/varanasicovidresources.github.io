@@ -2,7 +2,7 @@
 
 ➕ [Add a verified entry](https://docs.google.com/forms/d/e/1FAIpQLScW1oCFZDbRfhKCIzy48avDZvru0cTSd_p55auwy_C0JAxDrQ/viewform)
 
-➖ [Remove an entry](https://docs.google.com/forms/d/e/1FAIpQLScq4Now5RAOUciTcjDaaqkFT5XwVDDhYvacTmzcJZnSIV4gTQ/viewform)
+➖ [Remove/ edit an entry](https://docs.google.com/forms/d/e/1FAIpQLScq4Now5RAOUciTcjDaaqkFT5XwVDDhYvacTmzcJZnSIV4gTQ/viewform)
 
 (Please note that this is done manually and may take some time to be updated)
 
