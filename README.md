@@ -70,3 +70,7 @@
 |**Name** |**Contact**  |**Verified time**  |**Verified by**| **Status** |
 |---      |---          |---|---|---|
 |Demo 1   |1234567890   |1 Jan 2000         |Demo           |Available   |
+
+---
+
+© 2021 Maintainers. Inspired by <www.verifiedcovidleads.com>. This is not an official service. We are not responsible for any wrong information as the information is provided by the community.
