@@ -16,7 +16,7 @@
 
 |**Name** |**Contact**  |**Verified time**  |**Status** |
 |---      |---          |---                |---        |
-|Demo 1   |1234567890   |1 Jan 2000         |Available  |
+|Demo 1   |<tel:1234567890>   |1 Jan 2000         |Available  |
 
 <div id='refill' />
 
